@@ -12,8 +12,8 @@ from sklearn.metrics import log_loss,roc_auc_score
 from logging import getLogger
 
 
-TRAIN_DATA='./Porto-Seguro/train.csv'
-TEST_DATA='./Porto-Seguro/test.csv'
+TRAIN_DATA='../Porto-Seguro_training/train.csv'
+TEST_DATA='../Porto-Seguro_training/test.csv'
 
 logger = getLogger(__name__)
 
