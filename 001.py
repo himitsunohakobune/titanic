@@ -40,4 +40,4 @@ if __name__=='__main__':
     print(load_test_data().head())
 
 print("ＯＫaaaaauiuiui")
-print("羽子板")
+print("羽子板いい")
