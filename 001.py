@@ -39,5 +39,5 @@ if __name__=='__main__':
     print(load_train_data().head())
     print(load_test_data().head())
 
-print("ＯＫaaaaa")
-print("タカアンドトシ")
+print("ＯＫaaaaauiuiui")
+print("羽子板ああネタ祭り")
