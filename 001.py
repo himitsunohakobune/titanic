@@ -1,0 +1,42 @@
+
+import numpy as np
+import pandas as pd
+#import matplotlib.pyplot as plt
+#import seaborn as sns
+from pandas import Series,DataFrame
+#sns.set_style('whitegrid')
+import math
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import log_loss,roc_auc_score
+
+from logging import getLogger
+
+
+TRAIN_DATA='./Porto-Seguro/train.csv'
+TEST_DATA='./Porto-Seguro/test.csv'
+
+logger = getLogger(__name__)
+
+def read_csv(path):
+    logger.debug('enter')
+    df=pd.read_csv('path')
+    logger.debug('exit')
+    return df
+
+def load_train_data():
+    logger.debug('enter')
+    df=pd.read_csv(TRAIN_DATA)
+    logger.debug('exit')
+    return df
+
+def load_test_data():
+    logger.debug('enter')
+    df=pd.read_csv(TEST_DATA)
+    logger.debug('exit')
+    return df
+
+if __name__=='__main__':
+    print(load_train_data().head())
+    print(load_test_data().head())
+
+print("ＯＫa")
