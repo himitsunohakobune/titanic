@@ -1,0 +1,87 @@
+2021-01-02 16:52:52,420 __main__ 66 [INFO][<module>] start
+2021-01-02 16:52:52,423 __main__ 29 [DEBUG][load_train_data] enter
+2021-01-02 16:52:54,113 __main__ 31 [DEBUG][load_train_data] exit
+2021-01-02 16:53:40,157 __main__ 66 [INFO][<module>] start
+2021-01-02 16:53:40,158 __main__ 29 [DEBUG][load_train_data] enter
+2021-01-02 16:53:41,706 __main__ 31 [DEBUG][load_train_data] exit
+2021-01-02 16:53:41,796 __main__ 75 [DEBUG][<module>] train columns:(58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2021-01-02 16:53:41,796 __main__ 77 [INFO][<module>] data preparation end (595212, 58)
+2021-01-02 16:53:46,149 __main__ 83 [INFO][<module>] train end
+2021-01-02 16:53:46,150 __main__ 35 [DEBUG][load_test_data] enter
+2021-01-02 16:53:48,692 __main__ 37 [DEBUG][load_test_data] exit
+2021-01-02 16:53:49,057 __main__ 87 [INFO][<module>] test data load end (595212, 58)
+2021-01-02 16:54:29,966 __main__ 66 [INFO][<module>] start
+2021-01-02 16:54:29,967 __main__ 29 [DEBUG][load_train_data] enter
+2021-01-02 16:54:31,521 __main__ 31 [DEBUG][load_train_data] exit
+2021-01-02 16:54:31,612 __main__ 75 [DEBUG][<module>] train columns:(58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2021-01-02 16:54:31,612 __main__ 77 [INFO][<module>] data preparation end (595212, 58)
+2021-01-02 16:54:35,629 __main__ 83 [INFO][<module>] train end
+2021-01-02 16:54:35,630 __main__ 35 [DEBUG][load_test_data] enter
+2021-01-02 16:54:38,075 __main__ 37 [DEBUG][load_test_data] exit
+2021-01-02 16:54:38,423 __main__ 87 [INFO][<module>] test data load end (595212, 58)
+2021-01-02 16:58:55,206 __main__ 66 [INFO][<module>] start
+2021-01-02 16:58:55,208 __main__ 29 [DEBUG][load_train_data] enter
+2021-01-02 16:58:56,936 __main__ 31 [DEBUG][load_train_data] exit
+2021-01-02 16:58:57,035 __main__ 75 [DEBUG][<module>] train columns:(58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2021-01-02 16:58:57,038 __main__ 77 [INFO][<module>] data preparation end (595212, 58)
+2021-01-02 16:59:01,790 __main__ 83 [INFO][<module>] train end
+2021-01-02 16:59:01,791 __main__ 35 [DEBUG][load_test_data] enter
+2021-01-02 16:59:04,459 __main__ 37 [DEBUG][load_test_data] exit
+2021-01-02 16:59:04,855 __main__ 87 [INFO][<module>] test data load end (595212, 58)
+2021-01-02 17:03:37,060 __main__ 66 [INFO][<module>] start
+2021-01-02 17:03:37,061 __main__ 29 [DEBUG][load_train_data] enter
+2021-01-02 17:03:38,771 __main__ 31 [DEBUG][load_train_data] exit
+2021-01-02 17:03:38,869 __main__ 75 [DEBUG][<module>] train columns:(58,) ['id' 'ps_ind_01' 'ps_ind_02_cat' 'ps_ind_03' 'ps_ind_04_cat'
+ 'ps_ind_05_cat' 'ps_ind_06_bin' 'ps_ind_07_bin' 'ps_ind_08_bin'
+ 'ps_ind_09_bin' 'ps_ind_10_bin' 'ps_ind_11_bin' 'ps_ind_12_bin'
+ 'ps_ind_13_bin' 'ps_ind_14' 'ps_ind_15' 'ps_ind_16_bin' 'ps_ind_17_bin'
+ 'ps_ind_18_bin' 'ps_reg_01' 'ps_reg_02' 'ps_reg_03' 'ps_car_01_cat'
+ 'ps_car_02_cat' 'ps_car_03_cat' 'ps_car_04_cat' 'ps_car_05_cat'
+ 'ps_car_06_cat' 'ps_car_07_cat' 'ps_car_08_cat' 'ps_car_09_cat'
+ 'ps_car_10_cat' 'ps_car_11_cat' 'ps_car_11' 'ps_car_12' 'ps_car_13'
+ 'ps_car_14' 'ps_car_15' 'ps_calc_01' 'ps_calc_02' 'ps_calc_03'
+ 'ps_calc_04' 'ps_calc_05' 'ps_calc_06' 'ps_calc_07' 'ps_calc_08'
+ 'ps_calc_09' 'ps_calc_10' 'ps_calc_11' 'ps_calc_12' 'ps_calc_13'
+ 'ps_calc_14' 'ps_calc_15_bin' 'ps_calc_16_bin' 'ps_calc_17_bin'
+ 'ps_calc_18_bin' 'ps_calc_19_bin' 'ps_calc_20_bin']
+2021-01-02 17:03:38,869 __main__ 77 [INFO][<module>] data preparation end (595212, 58)
+2021-01-02 17:03:43,535 __main__ 83 [INFO][<module>] train end
+2021-01-02 17:03:43,536 __main__ 35 [DEBUG][load_test_data] enter
+2021-01-02 17:03:46,219 __main__ 37 [DEBUG][load_test_data] exit
+2021-01-02 17:03:46,598 __main__ 87 [INFO][<module>] test data load end (595212, 58)
